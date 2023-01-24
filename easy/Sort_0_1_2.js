@@ -15,4 +15,7 @@ function sortArr(array, nod) {
   return output;
 }
 
-console.log(sortArr(n, 3));
+// Easy
+let a = n.sort((a, b) => a - b);
+
+console.log(a);
