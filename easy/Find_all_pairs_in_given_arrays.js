@@ -11,7 +11,6 @@ function findPairs(arr1, arr2, x) {
             array.push([arr1[i], num]);
         }
     }
-
     console.log(array);
 }
 
