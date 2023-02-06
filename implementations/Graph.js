@@ -47,11 +47,3 @@ g.addEdge("E", "C");
 g.addEdge("C", "F");
 
 g.print();
-
-
-// A -> B D E
-// B -> A C
-// D -> A E
-// E -> A D F C
-// C -> B E F
-// F -> E C
