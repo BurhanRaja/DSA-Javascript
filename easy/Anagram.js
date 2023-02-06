@@ -17,7 +17,4 @@ function isAnagram(a, b) {
   return "YES";
 }
 
-
-
-
 console.log(isAnagram(a, b));
