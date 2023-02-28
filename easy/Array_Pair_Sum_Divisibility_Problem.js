@@ -10,7 +10,7 @@ function sumDivisibility(arr, k) {
         }
     }
 
-    return flag ? true : false;
+    return flag;
 }
 
 sumDivisibility(arr, k);
