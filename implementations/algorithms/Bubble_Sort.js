@@ -7,12 +7,10 @@ function bubbleSort(arr, n) {
         flag = true;
       }
     }
-
     if (!flag) {
       break;
     }
   }
-
   console.log(arr);
 }
 
